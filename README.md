@@ -1,22 +1,176 @@
-# 💫 About Me:
-⭐ About Me — Ali Wazeer<br><br>🔭 I’m currently working on:<br>Building and automating end-to-end DevSecOps pipelines across AWS using Kubernetes (EKS), Docker, Terraform, Jenkins, and GitHub Actions. My work focuses on designing scalable, secure, and observable cloud-native infrastructure that supports high-availability applications.<br><br>👯 I’m looking to collaborate on:<br>DevOps automation, cloud architecture, Kubernetes system design, Infrastructure-as-Code, GitOps workflows, and distributed system deployments. I enjoy contributing to projects that improve scalability, reliability, and automation efficiency.<br><br>🤝 I’m looking for help with:<br>Advanced Kubernetes performance tuning, multi-cluster deployments, and deep observability using Prometheus, Loki, Tempo, and Grafana. I’m always open to learning from experienced SREs and cloud architects.<br><br>🌱 I’m currently learning:<br>GitOps with ArgoCD, service mesh technologies such as Istio and Linkerd, Argo Rollouts for progressive delivery, and advanced AWS architecture patterns including microservices autoscaling and cost-optimized EKS environments.<br><br>💬 Ask me about:<br>DevOps Engineering, CI/CD pipelines, AWS (EKS, EC2, VPC, IAM, CloudWatch), Docker, Kubernetes, Terraform, Linux administration, monitoring and alerting, and secure deployment pipeline design. I enjoy simplifying complex cloud concepts into practical solutions.<br><br>⚡ Fun fact:<br>I automate everything from Kubernetes deployments to daily repetitive tasks because if something happens more than twice, it deserves to be automated.<br><br>💼 Freelance Availability:<br>I am available for freelance DevSecOps work and cloud engineering services through platforms like Upwork,I can help with building CI/CD pipelines, cloud migrations, production deployments, Kubernetes setups, and infrastructure automation.<br>
+# 👋 Hey there, I'm Ali Wazeer
 
+<div align="center">
+  
+### DevSecOps Engineer | Cloud Architect | Automation Enthusiast
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aliwazeer) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Ali_Wazeer) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ali.wazeer) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ali.wazeer2000@gmail.com) 
+*Building scalable, secure, and observable cloud-native infrastructure*
 
-# 💻 Tech Stack:
-![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Uliwazeer&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Uliwazeer&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Uliwazeer&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aliwazeer)
+[![Medium](https://img.shields.io/badge/Medium-Follow-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Ali_Wazeer)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@ali.wazeer)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ali.wazeer2000@gmail.com)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Uliwazeer&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Uliwazeer&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+I'm a **DevSecOps Engineer** passionate about automating everything and building robust cloud infrastructure. I specialize in designing end-to-end CI/CD pipelines that prioritize security, scalability, and observability.
+
+```yaml
+current_focus:
+  - Building production-grade Kubernetes clusters (EKS)
+  - Implementing GitOps workflows with ArgoCD
+  - Designing secure DevSecOps pipelines
+  - Infrastructure as Code with Terraform
+
+philosophy: |
+  "If it happens more than twice, it deserves automation."
+```
+
+### 🎯 What I'm Working On
+
+- 🔧 **End-to-End DevSecOps Pipelines** — AWS, Kubernetes, Docker, Terraform, Jenkins, GitHub Actions
+- 🏗️ **Cloud-Native Architecture** — Scalable, secure, highly available infrastructure
+- 📊 **Observability Stack** — Prometheus, Loki, Tempo, Grafana
+- 🔐 **Security-First Approach** — Implementing DevSecOps best practices across the pipeline
+
+### 🌱 Currently Learning
+
+- **GitOps** — ArgoCD & Argo Rollouts for progressive delivery
+- **Service Mesh** — Istio & Linkerd for microservices communication
+- **Advanced K8s** — Multi-cluster deployments, performance tuning
+- **Cost Optimization** — AWS architecture patterns for efficient resource usage
+
+### 🤝 Open to Collaborate On
+
+- DevOps automation & cloud architecture
+- Kubernetes system design
+- Infrastructure-as-Code projects
+- GitOps workflows
+- Distributed system deployments
+
+### 💬 Ask Me About
+
+- DevOps Engineering & CI/CD Pipelines
+- AWS Services (EKS, EC2, VPC, IAM, CloudWatch)
+- Kubernetes & Docker orchestration
+- Terraform & Infrastructure as Code
+- Linux system administration
+- Monitoring, alerting & observability
+- Secure deployment pipeline design
+
+---
+
+## 🛠️ Tech Stack
+
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+
+### 🐳 Containers & Orchestration
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Rancher](https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white)
+
+### 🔄 CI/CD & Automation
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+
+### 📊 Monitoring & Observability
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+### 🔒 Security & Quality
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+
+### 💻 Programming & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### 🌐 Web Technologies
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+
+### 🔧 Version Control & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Uliwazeer&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Uliwazeer&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Uliwazeer&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+![Trophies](https://github-profile-trophy.vercel.app/?username=Uliwazeer&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)
+
+</div>
+
+---
+
+## 💼 Freelance Services
+
+I'm available for **freelance DevSecOps** and **cloud engineering** projects. I can help with:
+
+- ✅ Building production-ready CI/CD pipelines
+- ✅ Cloud migrations (AWS, Azure)
+- ✅ Kubernetes cluster setup & management
+- ✅ Infrastructure automation with Terraform
+- ✅ Security hardening & DevSecOps implementation
+- ✅ Monitoring & observability solutions
+
+**Ready to collaborate?** Let's connect and build something amazing together!
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Uliwazeer&theme=tokyo-night&hide_border=true)](https://github.com/Uliwazeer)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+![Profile Views](https://visitcount.itsvg.in/api?id=Uliwazeer&icon=6&color=6)
+
+**⭐ From [Ali Wazeer](https://github.com/Uliwazeer) with ❤️**
+
+</div>
