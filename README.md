@@ -1,8 +1,7 @@
-# 👋 Hey there, I'm Ali Wazeer
-
 <div align="center">
-  
-### DevSecOps Engineer | Cloud Architect | Automation Enthusiast
+
+# 👋 Hey there, I'm 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Ali+Wazeer;DevSecOps+Engineer;Kubernetes+Specialist;Cloud+Native+Expert;Automation+Lover)](https://git.io/typing-svg)
 
 *Building scalable, secure, and observable cloud-native infrastructure*
 
@@ -19,16 +18,7 @@
 
 I'm a **DevSecOps Engineer** passionate about automating everything and building robust cloud infrastructure. I specialize in designing end-to-end CI/CD pipelines that prioritize security, scalability, and observability.
 
-```yaml
-current_focus:
-  - Building production-grade Kubernetes clusters (EKS)
-  - Implementing GitOps workflows with ArgoCD
-  - Designing secure DevSecOps pipelines
-  - Infrastructure as Code with Terraform
-
-philosophy: |
-  "If it happens more than twice, it deserves automation."
-```
+> **"If it happens more than twice, it deserves automation."** 🤖
 
 ### 🎯 What I'm Working On
 
@@ -36,13 +26,6 @@ philosophy: |
 - 🏗️ **Cloud-Native Architecture** — Scalable, secure, highly available infrastructure
 - 📊 **Observability Stack** — Prometheus, Loki, Tempo, Grafana
 - 🔐 **Security-First Approach** — Implementing DevSecOps best practices across the pipeline
-
-### 🌱 Currently Learning
-
-- **GitOps** — ArgoCD & Argo Rollouts for progressive delivery
-- **Service Mesh** — Istio & Linkerd for microservices communication
-- **Advanced K8s** — Multi-cluster deployments, performance tuning
-- **Cost Optimization** — AWS architecture patterns for efficient resource usage
 
 ### 🤝 Open to Collaborate On
 
